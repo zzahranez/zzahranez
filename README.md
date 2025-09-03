@@ -1,5 +1,5 @@
 ## Hi there 👋
-###<br><br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.  <br><br>⚡ Logic and creativity drive everything I build.<br>
+<br><br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.  <br><br>⚡ Logic and creativity drive everything I build.<br>
 
 ## 🌐 Socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zahranezldi__) 
