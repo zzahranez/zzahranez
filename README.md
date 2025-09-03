@@ -1,9 +1,10 @@
 ## Hi there 👋
+
 <div align="center">
   <img src="neuralnetwork.gif" alt="Neural Network Animation" width="600"/>
 </div>
 
-
+##
 
 <br><br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.  <br><br>⚡ Logic and creativity drive everything I build.<br>
 
