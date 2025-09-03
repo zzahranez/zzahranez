@@ -8,7 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahranezaldi123@gmail.com)
 <br>
 
-![Intro Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Neural Network](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
+
 ---
 
 ## **Tech Stack**
