@@ -48,7 +48,7 @@
 
 **ORM**<br>
 ![Eloquent](https://img.shields.io/badge/Eloquent-%23FF2D20?style=for-the-badge&logoColor=white)<br>
-![GORM](https://img.shields.io/badge/GORM%2300ADD8?style=for-the-badge&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logoColor=white)
 
 **ML / AI Tools**<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
