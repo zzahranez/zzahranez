@@ -1,16 +1,7 @@
 ## Hi there 👋
-<style>
-  .fade-in {
-    animation: fadeIn 2s ease-in-out;
-  }
-  @keyframes fadeIn {
-    from {opacity:0;}
-    to {opacity:1;}
-  }
-</style>
-
 <div align="center">
-  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="500" class="fade-in"/>
+  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="500" style="border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <p><em>Neural Network in Action</em></p>
 </div>
 
 
