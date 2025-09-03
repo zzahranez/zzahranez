@@ -1,7 +1,9 @@
 ## Hi there 👋
 <div align="center">
-  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="500"/>
+  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="500" 
+       style="border-radius:15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
 </div>
+
 <br><br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.  <br><br>⚡ Logic and creativity drive everything I build.<br>
 
  ## 🌐 Socials 
