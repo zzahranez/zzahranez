@@ -47,8 +47,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **ORM**<br>
-![Eloquent](https://img.shields.io/badge/Eloquent-Laravel-%23FF2D20?style=for-the-badge&logoColor=white)<br>
-![GORM](https://img.shields.io/badge/GORM-Go-%2300ADD8?style=for-the-badge&logoColor=white)
+![Eloquent](https://img.shields.io/badge/Eloquent-%23FF2D20?style=for-the-badge&logoColor=white)<br>
+![GORM](https://img.shields.io/badge/GORM%2300ADD8?style=for-the-badge&logoColor=white)
 
 **ML / AI Tools**<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
