@@ -7,7 +7,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@zahranezaldi) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahranezaldi123@gmail.com)
 <br>
-![Neural Network](neuralnetwork.gif)
+![Neural Network](./neuralnetwork.gif)
 ---
 
 ## **Tech Stack**
