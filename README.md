@@ -40,15 +40,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 
-### **Databases**<br><br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-
-### **ORM**<br><br>
-![Eloquent](https://img.shields.io/badge/Eloquent-%23FF2D20?style=for-the-badge&logoColor=white)<br>
-![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logoColor=white)
-
 ### **ML / AI Tools**<br><br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
@@ -60,6 +51,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+### **Databases**<br><br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### **ORM**<br><br>
+![Eloquent](https://img.shields.io/badge/Eloquent-%23FF2D20?style=for-the-badge&logoColor=white)<br>
+![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzahranez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
