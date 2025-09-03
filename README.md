@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahranezaldi123@gmail.com)
 <br>
 
-![Neural Network](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
+![Neural Network](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
