@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="500"/>
+  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="600"/>
 </div>
 
 
