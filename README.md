@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="neuralnetwork.gif" alt="Neural Network Animation" width="500"/>
+</div>
 <br><br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.  <br><br>⚡ Logic and creativity drive everything I build.<br>
 
  ## 🌐 Socials 
@@ -7,7 +10,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@zahranezaldi) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahranezaldi123@gmail.com)
 <br>
-![Neural Network](./neuralnetwork.gif)
 ---
 
 ## **Tech Stack**
@@ -23,8 +25,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-
-
 
 **Frameworks & Libraries**<br>
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logoColor=white)
