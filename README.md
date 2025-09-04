@@ -48,7 +48,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-268BD2.svg?style=for-the-badge&logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 #### **Run Time**<br><br>
