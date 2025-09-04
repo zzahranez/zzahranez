@@ -3,7 +3,7 @@
 </div>
 
 ## Hi there 👋
-<br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.  <br><br>⚡ Logic and creativity drive everything I build.<br>
+<br>Hi, I’m **Zahran Ezaldi Nakhwan**.  <br>I’m passionate about both **Software Engineering** and **Machine Learning/AI**.  <br><br>In a fast-moving AI era, I focus on what excites me most:  <br>**designing logic, structuring algorithms, and turning ideas into clean, efficient code**.  <br><br>I explore both the **art of building robust software** and the **science of intelligent systems**,  <br>always curious about how technology can solve real-world problems.<br>
 
  ## 🌐 Socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zahranezldi__) 
@@ -67,7 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats:
+## **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zzahranez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
