@@ -27,7 +27,7 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
 #### **Frameworks & Libraries**<br><br>
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
